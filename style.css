@@ -3,3 +3,10 @@ body{
     font-family: 'Open Sans', sans-serif;
 
 }
+h1{font-size: 45px;}
+.color{
+    color: rgb(255, 0, 0);
+}
+.wiki{
+    color: rgb(140, 0, 255);
+}
