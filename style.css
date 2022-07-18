@@ -1,12 +1,40 @@
-h1{color: rgb(0, 0, 0)}
-body{
-    font-family: 'Open Sans', sans-serif;
-
+h1 {
+    color: rgb(0, 0, 0)
 }
-h1{font-size: 45px;}
-.color{
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.color {
     color: rgb(255, 0, 0);
 }
-.wiki{
+
+.wiki {
     color: rgb(140, 0, 255);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
 }
