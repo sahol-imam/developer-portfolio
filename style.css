@@ -21,6 +21,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 15%;
 }
 
 .half-width {
@@ -40,7 +41,19 @@ section {
     border-radius: 5px;
 }
 
+.black {
+    color: aliceblue;
+    background-color: black;
+
+}
+
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dc_office {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
