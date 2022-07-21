@@ -26,6 +26,7 @@ h1 {
 
 .half-width {
     width: 50%;
+  
 }
 
 .half-width img {
@@ -56,4 +57,17 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.last_on{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.address{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px red;
 }
